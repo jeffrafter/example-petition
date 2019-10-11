@@ -6,6 +6,7 @@ Signed,
 
 <!-- signatures -->
 * Carlos A. Becker, @caarlos0
+* Danny Page, @dannypage
 * Muhammad Azeez, @encrypt0r
 * Jeff Rafter, @jeffrafter
 * Patrick Marsceill, @pmarsceill
