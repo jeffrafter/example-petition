@@ -5,4 +5,4 @@ We believe software should advance humanity.
 Signed,
 
 <!-- signatures -->
-
+* Jeff Rafter, @jeffrafter
