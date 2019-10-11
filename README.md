@@ -7,4 +7,5 @@ Signed,
 <!-- signatures -->
 * Carlos A. Becker, @caarlos0
 * Jeff Rafter, @jeffrafter
+* Patrick Marsceill, @pmarsceill
 * Corey Johnson, @probablycorey
