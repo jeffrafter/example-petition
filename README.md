@@ -9,5 +9,6 @@ Signed,
 * Danny Page, @dannypage
 * Muhammad Azeez, @encrypt0r
 * Jeff Rafter, @jeffrafter
+* Abdullah Al Nahid, @nahid18
 * Patrick Marsceill, @pmarsceill
 * Corey Johnson, @probablycorey
