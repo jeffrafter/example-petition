@@ -12,3 +12,4 @@ Signed,
 * Abdullah Al Nahid, @nahid18
 * Patrick Marsceill, @pmarsceill
 * Corey Johnson, @probablycorey
+* Xavier Serrat, @xserrat
